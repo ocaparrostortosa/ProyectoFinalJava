@@ -9,7 +9,7 @@ import java.sql.Statement;
  * Clase que implementa métodos de la interfaz denominada 'InterfazDAO' que nos 
  * permite interactuar con la base de datos y crear futuras acciones para la vista.
  * 
- * @author Oscar Caparros
+ * @author Oscar Caparros.
  *
  */
 public class ClaseDAO implements InterfazDAO {
